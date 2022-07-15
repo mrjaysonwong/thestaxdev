@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB
 - 👯 I’m looking to collaborate on composable projects that I can handle with and gain experience on it
 - 🤔 I’m looking for help with authentication (back-end)
-- 📫 How to reach me: [LinkedIn]{:target="_blank"}(https://www.linkedin.com/in/thestaxdev/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thestaxdev/)
 - ⚡ Fun fact: I like flying drones, photography/videography, hiking/camping.
