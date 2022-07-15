@@ -21,4 +21,7 @@
   <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
   <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
   <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
 </div>
