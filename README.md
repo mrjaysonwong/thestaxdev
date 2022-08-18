@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ReactJS projects
 - 🌱 I’m currently learning ReactJS, Material UI, NodeJS, ExpressJS, MongoDB, NextJS
-- 👯 I’m looking to collaborate with like minded developers on projects that are composable as well as I can handle and gain experience on it.
+- 👯 I’m looking to collaborate with like minded developers on well maintained and readable projects and gain experience on it.
 - 🤔 I’m looking for help with authentication (back-end)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/thestaxdev/)
 - ⚡ Fun fact: I like flying drones, photography/videography, hiking/camping.
