@@ -10,7 +10,7 @@
 > ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
+  <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">
   <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img width='50px' height='50px' src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
